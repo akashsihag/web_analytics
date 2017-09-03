@@ -1,4 +1,4 @@
-                                                             **Readme File**
+                                                      **Readme File**
 
 Export environent variable :
 export WEB_ANALYTICS=/home/akash/web_analytics/
