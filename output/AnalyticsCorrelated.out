@@ -1,0 +1,78 @@
+ Version 1.0.0 
+ SPARK_JOB_TYPE : AnalyticsCorrelated
+ PARTITION : 4
+ SPARK_CONTEXT_TYPE : LOCAL
+
+Start Time : Wed Jul 19 01:57:48 IST 2017
+Lead Generator according to events : 
+###########################################################
+
+
+###########################################################
+
+
+( Initial Referrer Domain : www.facebook.com,
+Apply Now Click : 524	Application Step Complete : 353	Start Application : 198	New Lead Captured : 176	Submit Application : 82)
+
+( Initial Referrer Domain : www.genpact.com,
+Apply Now Click : 12	Application Step Complete : 4	Start Application : 3	New Lead Captured : 3	Submit Application : 1)
+
+( Initial Referrer Domain : lenskart.upgrad.com,
+Apply Now Click : 207	Application Step Complete : 97	Start Application : 66	New Lead Captured : 80	Submit Application : 19)
+
+( Initial Referrer Domain : inc42.com,
+Apply Now Click : 1	Application Step Complete : 3	Start Application : 1	New Lead Captured : 1	Submit Application : 1)
+
+( Initial Referrer Domain : www.linkedin.com,
+Apply Now Click : 7	Application Step Complete : 13	Start Application : 3	New Lead Captured : 2	Submit Application : 3)
+
+( Initial Referrer Domain : upgrad1.typeform.com,
+Apply Now Click : 4	Application Step Complete : 3	Start Application : 1	New Lead Captured : 1	Submit Application : 1)
+
+( Initial Referrer Domain : www.entrepreneur.com,
+Apply Now Click : 5	Application Step Complete : 8	Start Application : 2	New Lead Captured : 1	Submit Application : 2)
+
+( Initial Referrer Domain : mg.mail.yahoo.com,
+Apply Now Click : 1	Application Step Complete : 6	Start Application : 1	New Lead Captured : 1	Submit Application : 1)
+
+( Initial Referrer Domain : www.google.com.sg,
+Apply Now Click : 8	Application Step Complete : 8	Start Application : 2	New Lead Captured : 2	Submit Application : 2)
+
+( Initial Referrer Domain : blog.upgrad.com,
+Apply Now Click : 2	Application Step Complete : 6	Start Application : 2	New Lead Captured : 1	Submit Application : 1)
+
+( Initial Referrer Domain : outlook.live.com,
+Apply Now Click : 2	Application Step Complete : 18	Start Application : 6	New Lead Captured : 2	Submit Application : 5)
+
+( Initial Referrer Domain : events.upgrad.com,
+Apply Now Click : 198	Application Step Complete : 152	Start Application : 72	New Lead Captured : 68	Submit Application : 38)
+
+( Initial Referrer Domain : $direct,
+Apply Now Click : 397	Application Step Complete : 417	Start Application : 223	New Lead Captured : 106	Submit Application : 97)
+
+( Initial Referrer Domain : www.iiitb.ac.in,
+Apply Now Click : 166	Application Step Complete : 194	Start Application : 85	New Lead Captured : 47	Submit Application : 44)
+
+( Initial Referrer Domain : yourstory.com,
+Apply Now Click : 4	Application Step Complete : 3	Start Application : 1	New Lead Captured : 1	Submit Application : 1)
+
+( Initial Referrer Domain : m.facebook.com,
+Apply Now Click : 15	Application Step Complete : 14	Start Application : 7	New Lead Captured : 4	Submit Application : 2)
+
+( Initial Referrer Domain : www.google.com,
+Apply Now Click : 16	Application Step Complete : 3	Start Application : 2	New Lead Captured : 2	Submit Application : 1)
+
+( Initial Referrer Domain : www.google.co.in,
+Apply Now Click : 400	Application Step Complete : 295	Start Application : 137	New Lead Captured : 130	Submit Application : 66)
+
+( Initial Referrer Domain : upgrad.com,
+Apply Now Click : 13	Application Step Complete : 10	Start Application : 47	New Lead Captured : 1	Submit Application : 2)
+
+( Initial Referrer Domain : mail.google.com,
+Apply Now Click : 8	Application Step Complete : 7	Start Application : 6	New Lead Captured : 2	Submit Application : 2)
+
+###########################################################
+
+
+
+End Time : Some(Wed Jul 19 01:57:53 IST 2017)

@@ -1,0 +1,262 @@
+ Version 1.0.0 
+ SPARK_JOB_TYPE : CityWise
+ PARTITION : 4
+ SPARK_CONTEXT_TYPE : LOCAL
+
+Start Time : Tue Jul 18 22:08:07 IST 2017
+Analysis on the basis of city: 
+###########################################################
+
+
+
+City - Initial referrer relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (,google.co.in),	Count : 5426 )
+( Combination : (Mumbai,google.co.in),	Count : 4742 )
+( Combination : (Bengaluru,google.co.in),	Count : 3961 )
+( Combination : (Pune,$direct),	Count : 3699 )
+( Combination : (Mumbai,$direct),	Count : 3475 )
+( Combination : (Bengaluru,http:),	Count : 3368 )
+( Combination : (Mumbai,http:),	Count : 3283 )
+( Combination : (Hyderabad,google.co.in),	Count : 3187 )
+( Combination : (Bengaluru,$direct),	Count : 3085 )
+( Combination : (,$direct),	Count : 2928 )
+( Combination : (Pune,google.co.in),	Count : 2807 )
+( Combination : (,http:),	Count : 2655 )
+( Combination : (Pasadena,http:),	Count : 2421 )
+( Combination : (Bengaluru,facebook.com),	Count : 2000 )
+( Combination : (Delhi,google.co.in),	Count : 1756 )
+( Combination : (Hyderabad,$direct),	Count : 1712 )
+( Combination : (Delhi,http:),	Count : 1454 )
+( Combination : (,facebook.com),	Count : 1444 )
+( Combination : (Hyderabad,http:),	Count : 1241 )
+( Combination : (Mumbai,facebook.com),	Count : 1217 )
+( Combination : (Hyderabad,facebook.com),	Count : 1171 )
+( Combination : (Kolkata,google.co.in),	Count : 1018 )
+( Combination : (Ahmedabad,$direct),	Count : 976 )
+( Combination : (Pune,http:),	Count : 893 )
+( Combination : (Gurgaon,google.co.in),	Count : 868 )
+( Combination : (Delhi,$direct),	Count : 770 )
+( Combination : (New Delhi,google.co.in),	Count : 761 )
+( Combination : (Menlo Park,http:),	Count : 728 )
+( Combination : (Kolkata,http:),	Count : 696 )
+( Combination : (Pune,facebook.com),	Count : 695 )
+( Combination : (Chennai,http:),	Count : 687 )
+( Combination : (Delhi,facebook.com),	Count : 657 )
+( Combination : (Noida,google.co.in),	Count : 631 )
+( Combination : (Kolkata,$direct),	Count : 626 )
+( Combination : (Ahmedabad,google.co.in),	Count : 586 )
+( Combination : (Singapore,google.co.in),	Count : 561 )
+( Combination : (Gurgaon,$direct),	Count : 547 )
+( Combination : (Chennai,google.co.in),	Count : 545 )
+( Combination : (Gurgaon,http:),	Count : 543 )
+( Combination : (Thane,google.co.in),	Count : 497 )
+###########################################################
+
+
+
+City - referrer relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Bengaluru,company.com),	Count : 4567 )
+( Combination : (Mumbai,company.com),	Count : 4468 )
+( Combination : (,google.co.in),	Count : 4218 )
+( Combination : (,company.com),	Count : 3158 )
+( Combination : (Mumbai,),	Count : 2853 )
+( Combination : (Pune,),	Count : 2643 )
+( Combination : (Pune,company.com),	Count : 2625 )
+( Combination : (Mumbai,google.co.in),	Count : 2624 )
+( Combination : (Bengaluru,),	Count : 2524 )
+( Combination : (,),	Count : 2415 )
+( Combination : (Mumbai,http:),	Count : 2389 )
+( Combination : (Pasadena,http:),	Count : 2376 )
+( Combination : (Hyderabad,google.co.in),	Count : 2293 )
+( Combination : (Bengaluru,google.co.in),	Count : 2136 )
+( Combination : (Bengaluru,http:),	Count : 2064 )
+( Combination : (Hyderabad,company.com),	Count : 2051 )
+( Combination : (,http:),	Count : 1965 )
+( Combination : (Pune,google.co.in),	Count : 1903 )
+( Combination : (Hyderabad,),	Count : 1417 )
+( Combination : (Delhi,company.com),	Count : 1278 )
+( Combination : (Bengaluru,facebook.com),	Count : 1245 )
+( Combination : (Delhi,google.co.in),	Count : 1128 )
+( Combination : (Delhi,http:),	Count : 1116 )
+( Combination : (,facebook.com),	Count : 985 )
+( Combination : (Ahmedabad,),	Count : 968 )
+( Combination : (Hyderabad,http:),	Count : 881 )
+( Combination : (Kolkata,google.co.in),	Count : 835 )
+( Combination : (Mumbai,facebook.com),	Count : 753 )
+( Combination : (Hyderabad,facebook.com),	Count : 733 )
+( Combination : (Gurgaon,company.com),	Count : 730 )
+( Combination : (Menlo Park,http:),	Count : 727 )
+( Combination : (Delhi,),	Count : 726 )
+( Combination : (Chennai,company.com),	Count : 690 )
+( Combination : (Noida,company.com),	Count : 678 )
+( Combination : (Pune,http:),	Count : 658 )
+( Combination : (Kolkata,company.com),	Count : 645 )
+( Combination : (Gurgaon,google.co.in),	Count : 553 )
+( Combination : (Kolkata,),	Count : 549 )
+( Combination : (Kolkata,http:),	Count : 532 )
+( Combination : (Thane,company.com),	Count : 530 )
+###########################################################
+
+
+
+City - Course relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (,),	Count : 7834 )
+( Combination : (Mumbai,),	Count : 6840 )
+( Combination : (Bengaluru,),	Count : 5855 )
+( Combination : (Pune,),	Count : 4443 )
+( Combination : (Hyderabad,),	Count : 4253 )
+( Combination : (Mumbai,Entrepreneurship),	Count : 2894 )
+( Combination : (Pasadena,),	Count : 2418 )
+( Combination : (Delhi,),	Count : 2336 )
+( Combination : (Bengaluru,Data Analytics),	Count : 2171 )
+( Combination : (Bengaluru,Product Management),	Count : 2020 )
+( Combination : (Kolkata,),	Count : 1640 )
+( Combination : (,Entrepreneurship),	Count : 1529 )
+( Combination : (Mumbai,Digital Marketing),	Count : 1430 )
+( Combination : (,Digital Marketing),	Count : 1362 )
+( Combination : (Pune,Entrepreneurship),	Count : 1252 )
+( Combination : (Gurgaon,),	Count : 1144 )
+( Combination : (Bengaluru,Entrepreneurship),	Count : 1113 )
+( Combination : (Delhi,Entrepreneurship),	Count : 1088 )
+( Combination : (Bengaluru,Digital Marketing),	Count : 1047 )
+( Combination : (Pune,Digital Marketing),	Count : 1036 )
+( Combination : (Mumbai,Product Management),	Count : 1003 )
+( Combination : (Chennai,),	Count : 1000 )
+( Combination : (New Delhi,),	Count : 954 )
+( Combination : (,Product Management),	Count : 936 )
+( Combination : (,Data Analytics),	Count : 912 )
+( Combination : (Hyderabad,Data Analytics),	Count : 903 )
+( Combination : (Singapore,),	Count : 903 )
+( Combination : (Ahmedabad,Digital Marketing),	Count : 862 )
+( Combination : (Ahmedabad,),	Count : 824 )
+( Combination : (Noida,),	Count : 811 )
+( Combination : (Hyderabad,Product Management),	Count : 777 )
+( Combination : (Bengaluru,Android),	Count : 711 )
+( Combination : (Mumbai,Data Analytics),	Count : 711 )
+( Combination : (Thane,),	Count : 701 )
+( Combination : (Pune,Product Management),	Count : 691 )
+( Combination : (,Android),	Count : 669 )
+( Combination : (Hyderabad,Digital Marketing),	Count : 648 )
+( Combination : (Mumbai,Android),	Count : 602 )
+( Combination : (Pune,Data Analytics),	Count : 544 )
+( Combination : (Hyderabad,Entrepreneurship),	Count : 530 )
+###########################################################
+
+
+
+City - LatestUTMCampaign relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (,),	Count : 8129 )
+( Combination : (Mumbai,),	Count : 6814 )
+( Combination : (Bengaluru,),	Count : 5793 )
+( Combination : (Pune,),	Count : 5094 )
+( Combination : (Hyderabad,),	Count : 4461 )
+( Combination : (Pasadena,),	Count : 2639 )
+( Combination : (Delhi,),	Count : 2299 )
+( Combination : (Ahmedabad,),	Count : 1718 )
+( Combination : (Kolkata,),	Count : 1711 )
+( Combination : (Bengaluru,IIITB_Website),	Count : 1353 )
+( Combination : (Gurgaon,),	Count : 1208 )
+( Combination : (Mumbai,SUWU_Instapage_Conclave_25Sept),	Count : 1111 )
+( Combination : (Mumbai,Search_Brand),	Count : 1107 )
+( Combination : (New Delhi,),	Count : 1021 )
+( Combination : (Singapore,),	Count : 977 )
+( Combination : (Bengaluru,PM_Sep_2016_CTWD),	Count : 885 )
+( Combination : (Chennai,),	Count : 881 )
+( Combination : (Thane,),	Count : 782 )
+( Combination : (Noida,),	Count : 766 )
+( Combination : (Delhi,SUWU_Instapage_Workshop_25Aug),	Count : 747 )
+( Combination : (Bengaluru,Search_Brand),	Count : 726 )
+( Combination : (Mumbai,SUWU_Instapage_Workshop_25Aug),	Count : 702 )
+( Combination : (,Search_Brand),	Count : 700 )
+( Combination : (Mumbai,company_Brand),	Count : 519 )
+( Combination : (Jaipur,),	Count : 498 )
+( Combination : (Pune,Search_Brand),	Count : 469 )
+( Combination : (,AD_Sep_2016_CTWD),	Count : 436 )
+( Combination : (Indore,),	Count : 428 )
+( Combination : (,IIITB_Website),	Count : 408 )
+( Combination : (,SUWU_Instapage_Workshop_25Aug),	Count : 398 )
+( Combination : (,Lenskart_Scholarship_PostForm_Submission),	Count : 397 )
+( Combination : (Hyderabad,IIITB_Website),	Count : 389 )
+( Combination : (,company_Brand),	Count : 380 )
+( Combination : (Bengaluru,AD_Sep_2016_CTWD),	Count : 378 )
+( Combination : (,PM_Sep_2016_CTWD),	Count : 368 )
+( Combination : (Bengaluru,PM_Sep_2016_CTWD_Remarketing),	Count : 344 )
+( Combination : (Menlo Park,PM_Sep_2016_CTWD),	Count : 343 )
+( Combination : (Hyderabad,Search_Brand),	Count : 342 )
+( Combination : (Hyderabad,PM_Sep_2016_CTWD),	Count : 341 )
+( Combination : (Mountain View,),	Count : 335 )
+###########################################################
+
+
+
+City - UtmSources relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (,),	Count : 8056 )
+( Combination : (Mumbai,),	Count : 6744 )
+( Combination : (Bengaluru,),	Count : 5703 )
+( Combination : (Pune,),	Count : 5027 )
+( Combination : (Hyderabad,),	Count : 4440 )
+( Combination : (Pasadena,),	Count : 2633 )
+( Combination : (Delhi,),	Count : 2276 )
+( Combination : (Bengaluru,Facebook),	Count : 2266 )
+( Combination : (Mumbai,Instapage),	Count : 1969 )
+( Combination : (Mumbai,google),	Count : 1862 )
+( Combination : (Ahmedabad,),	Count : 1718 )
+( Combination : (Kolkata,),	Count : 1693 )
+( Combination : (,Facebook),	Count : 1541 )
+( Combination : (Mumbai,Facebook),	Count : 1473 )
+( Combination : (Bengaluru,IIITB),	Count : 1407 )
+( Combination : (Bengaluru,google),	Count : 1354 )
+( Combination : (Bengaluru,Instapage),	Count : 1297 )
+( Combination : (,google),	Count : 1253 )
+( Combination : (Hyderabad,Facebook),	Count : 1188 )
+( Combination : (Gurgaon,),	Count : 1169 )
+( Combination : (New Delhi,),	Count : 1015 )
+( Combination : (Singapore,),	Count : 954 )
+( Combination : (,Instapage),	Count : 914 )
+( Combination : (Chennai,),	Count : 875 )
+( Combination : (Delhi,Instapage),	Count : 868 )
+( Combination : (Thane,),	Count : 775 )
+( Combination : (Noida,),	Count : 760 )
+( Combination : (Delhi,Facebook),	Count : 704 )
+( Combination : (Pune,Instapage),	Count : 676 )
+( Combination : (Pune,Facebook),	Count : 661 )
+( Combination : (Pune,google),	Count : 660 )
+( Combination : (Menlo Park,Facebook),	Count : 652 )
+( Combination : (Hyderabad,google),	Count : 583 )
+( Combination : (Jaipur,),	Count : 507 )
+( Combination : (Delhi,google),	Count : 472 )
+( Combination : (Kolkata,Facebook),	Count : 462 )
+( Combination : (,Lenskart),	Count : 451 )
+( Combination : (Indore,),	Count : 428 )
+( Combination : (Hyderabad,IIITB),	Count : 419 )
+( Combination : (Chennai,Facebook),	Count : 412 )
+###########################################################
+
+
+
+End Time : Some(Tue Jul 18 22:08:14 IST 2017)

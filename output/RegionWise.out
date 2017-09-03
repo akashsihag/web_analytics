@@ -1,0 +1,261 @@
+ Version 1.0.0 
+ SPARK_JOB_TYPE : RegionWise
+ PARTITION : 4
+ SPARK_CONTEXT_TYPE : LOCAL
+
+Start Time : Tue Jul 18 22:08:40 IST 2017
+Region wise analysis : 
+###########################################################
+
+
+Region - Initial referrer relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Maharashtra,google.co.in),	Count : 8598 )
+( Combination : (Maharashtra,$direct),	Count : 7896 )
+( Combination : (Maharashtra,http:),	Count : 4830 )
+( Combination : (,google.co.in),	Count : 4634 )
+( Combination : (Karnataka,google.co.in),	Count : 4077 )
+( Combination : (Karnataka,http:),	Count : 3464 )
+( Combination : (California,http:),	Count : 3391 )
+( Combination : (Telangana,google.co.in),	Count : 3359 )
+( Combination : (Karnataka,$direct),	Count : 3171 )
+( Combination : (National Capital Territory of Delhi,google.co.in),	Count : 2560 )
+( Combination : (,$direct),	Count : 2370 )
+( Combination : (Maharashtra,facebook.com),	Count : 2263 )
+( Combination : (Karnataka,facebook.com),	Count : 2088 )
+( Combination : (,http:),	Count : 2062 )
+( Combination : (National Capital Territory of Delhi,http:),	Count : 1839 )
+( Combination : (Telangana,$direct),	Count : 1798 )
+( Combination : (West Bengal,google.co.in),	Count : 1486 )
+( Combination : (Gujarat,google.co.in),	Count : 1411 )
+( Combination : (Gujarat,$direct),	Count : 1338 )
+( Combination : (Telangana,http:),	Count : 1318 )
+( Combination : (,facebook.com),	Count : 1270 )
+( Combination : (Telangana,facebook.com),	Count : 1264 )
+( Combination : (Haryana,google.co.in),	Count : 1210 )
+( Combination : (National Capital Territory of Delhi,$direct),	Count : 1143 )
+( Combination : (Uttar Pradesh,google.co.in),	Count : 1143 )
+( Combination : (Tamil Nadu,http:),	Count : 955 )
+( Combination : (National Capital Territory of Delhi,facebook.com),	Count : 919 )
+( Combination : (Uttar Pradesh,http:),	Count : 863 )
+( Combination : (West Bengal,http:),	Count : 859 )
+( Combination : (Haryana,$direct),	Count : 796 )
+( Combination : (Uttar Pradesh,$direct),	Count : 785 )
+( Combination : (West Bengal,$direct),	Count : 764 )
+( Combination : (Rajasthan,google.co.in),	Count : 738 )
+( Combination : (Tamil Nadu,google.co.in),	Count : 734 )
+( Combination : (Gujarat,http:),	Count : 721 )
+( Combination : (Haryana,http:),	Count : 706 )
+( Combination : (Tamil Nadu,$direct),	Count : 704 )
+( Combination : (Madhya Pradesh,google.co.in),	Count : 676 )
+( Combination : (Central Singapore Community Development Council,google.co.in),	Count : 561 )
+( Combination : (West Bengal,facebook.com),	Count : 557 )
+###########################################################
+
+
+
+Region - referrer relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Maharashtra,company.com),	Count : 8025 )
+( Combination : (Maharashtra,),	Count : 6072 )
+( Combination : (Maharashtra,google.co.in),	Count : 5215 )
+( Combination : (Karnataka,company.com),	Count : 4677 )
+( Combination : (,google.co.in),	Count : 3589 )
+( Combination : (Maharashtra,http:),	Count : 3522 )
+( Combination : (California,http:),	Count : 3304 )
+( Combination : (,company.com),	Count : 2734 )
+( Combination : (Karnataka,),	Count : 2595 )
+( Combination : (Telangana,google.co.in),	Count : 2446 )
+( Combination : (Karnataka,google.co.in),	Count : 2218 )
+( Combination : (Telangana,company.com),	Count : 2152 )
+( Combination : (Karnataka,http:),	Count : 2127 )
+( Combination : (,),	Count : 1893 )
+( Combination : (National Capital Territory of Delhi,company.com),	Count : 1853 )
+( Combination : (National Capital Territory of Delhi,google.co.in),	Count : 1628 )
+( Combination : (Telangana,),	Count : 1516 )
+( Combination : (,http:),	Count : 1475 )
+( Combination : (National Capital Territory of Delhi,http:),	Count : 1433 )
+( Combination : (Maharashtra,facebook.com),	Count : 1340 )
+( Combination : (Gujarat,),	Count : 1315 )
+( Combination : (Karnataka,facebook.com),	Count : 1299 )
+( Combination : (West Bengal,google.co.in),	Count : 1198 )
+( Combination : (Gujarat,google.co.in),	Count : 1121 )
+( Combination : (National Capital Territory of Delhi,),	Count : 1087 )
+( Combination : (Uttar Pradesh,company.com),	Count : 1057 )
+( Combination : (Haryana,company.com),	Count : 987 )
+( Combination : (Tamil Nadu,company.com),	Count : 984 )
+( Combination : (Telangana,http:),	Count : 934 )
+( Combination : (,facebook.com),	Count : 855 )
+( Combination : (West Bengal,company.com),	Count : 819 )
+( Combination : (Haryana,google.co.in),	Count : 776 )
+( Combination : (Telangana,facebook.com),	Count : 775 )
+( Combination : (Uttar Pradesh,google.co.in),	Count : 733 )
+( Combination : (Gujarat,company.com),	Count : 727 )
+( Combination : (West Bengal,),	Count : 714 )
+( Combination : (Haryana,),	Count : 673 )
+( Combination : (West Bengal,http:),	Count : 663 )
+( Combination : (Madhya Pradesh,google.co.in),	Count : 613 )
+( Combination : (Rajasthan,google.co.in),	Count : 605 )
+###########################################################
+
+
+
+Region - Course opted relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Maharashtra,),	Count : 12767 )
+( Combination : (,),	Count : 6437 )
+( Combination : (Karnataka,),	Count : 6024 )
+( Combination : (Maharashtra,Entrepreneurship),	Count : 4822 )
+( Combination : (Telangana,),	Count : 4518 )
+( Combination : (National Capital Territory of Delhi,),	Count : 3372 )
+( Combination : (California,),	Count : 3131 )
+( Combination : (Maharashtra,Digital Marketing),	Count : 2718 )
+( Combination : (Karnataka,Data Analytics),	Count : 2214 )
+( Combination : (West Bengal,),	Count : 2211 )
+( Combination : (Karnataka,Product Management),	Count : 2061 )
+( Combination : (Gujarat,),	Count : 1966 )
+( Combination : (Maharashtra,Product Management),	Count : 1901 )
+( Combination : (Haryana,),	Count : 1610 )
+( Combination : (Uttar Pradesh,),	Count : 1529 )
+( Combination : (National Capital Territory of Delhi,Entrepreneurship),	Count : 1413 )
+( Combination : (Maharashtra,Data Analytics),	Count : 1392 )
+( Combination : (Tamil Nadu,),	Count : 1356 )
+( Combination : (Maharashtra,Android),	Count : 1254 )
+( Combination : (,Entrepreneurship),	Count : 1233 )
+( Combination : (,Digital Marketing),	Count : 1183 )
+( Combination : (Karnataka,Entrepreneurship),	Count : 1173 )
+( Combination : (Gujarat,Digital Marketing),	Count : 1122 )
+( Combination : (Karnataka,Digital Marketing),	Count : 1092 )
+( Combination : (Madhya Pradesh,),	Count : 984 )
+( Combination : (Telangana,Data Analytics),	Count : 963 )
+( Combination : (Rajasthan,),	Count : 933 )
+( Combination : (Central Singapore Community Development Council,),	Count : 903 )
+( Combination : (Telangana,Product Management),	Count : 807 )
+( Combination : (,Data Analytics),	Count : 779 )
+( Combination : (,Product Management),	Count : 772 )
+( Combination : (Karnataka,Android),	Count : 752 )
+( Combination : (Telangana,Digital Marketing),	Count : 684 )
+( Combination : (National Capital Territory of Delhi,Digital Marketing),	Count : 664 )
+( Combination : (Uttar Pradesh,Entrepreneurship),	Count : 651 )
+( Combination : (Andhra Pradesh,),	Count : 634 )
+( Combination : (Haryana,Entrepreneurship),	Count : 598 )
+( Combination : (State of Punjab,),	Count : 593 )
+( Combination : (National Capital Territory of Delhi,Product Management),	Count : 589 )
+( Combination : (,Android),	Count : 588 )
+###########################################################
+
+
+
+Region - LatestUTMCampaign relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Maharashtra,),	Count : 13546 )
+( Combination : (,),	Count : 6637 )
+( Combination : (Karnataka,),	Count : 5924 )
+( Combination : (Telangana,),	Count : 4708 )
+( Combination : (National Capital Territory of Delhi,),	Count : 3408 )
+( Combination : (California,),	Count : 3381 )
+( Combination : (Gujarat,),	Count : 2888 )
+( Combination : (West Bengal,),	Count : 2330 )
+( Combination : (Maharashtra,Search_Brand),	Count : 1747 )
+( Combination : (Haryana,),	Count : 1697 )
+( Combination : (Uttar Pradesh,),	Count : 1505 )
+( Combination : (Maharashtra,SUWU_Instapage_Conclave_25Sept),	Count : 1458 )
+( Combination : (Karnataka,IIITB_Website),	Count : 1380 )
+( Combination : (Tamil Nadu,),	Count : 1205 )
+( Combination : (Maharashtra,SUWU_Instapage_Workshop_25Aug),	Count : 1028 )
+( Combination : (Central Singapore Community Development Council,),	Count : 977 )
+( Combination : (Rajasthan,),	Count : 956 )
+( Combination : (National Capital Territory of Delhi,SUWU_Instapage_Workshop_25Aug),	Count : 936 )
+( Combination : (Madhya Pradesh,),	Count : 917 )
+( Combination : (Karnataka,PM_Sep_2016_CTWD),	Count : 903 )
+( Combination : (Maharashtra,company_Brand),	Count : 796 )
+( Combination : (Karnataka,Search_Brand),	Count : 733 )
+( Combination : (,Search_Brand),	Count : 591 )
+( Combination : (State of Punjab,),	Count : 582 )
+( Combination : (Maharashtra,PM_Sep_2016_CTWD),	Count : 568 )
+( Combination : (Kerala,),	Count : 547 )
+( Combination : (Andhra Pradesh,),	Count : 527 )
+( Combination : (Maharashtra,AD_Sep_2016_CTWD),	Count : 480 )
+( Combination : (Haryana,SUWU_Instapage_Workshop_25Aug),	Count : 426 )
+( Combination : (Karnataka,AD_Sep_2016_CTWD),	Count : 419 )
+( Combination : (Telangana,IIITB_Website),	Count : 412 )
+( Combination : (Maharashtra,IIITB_Website),	Count : 379 )
+( Combination : (,AD_Sep_2016_CTWD),	Count : 379 )
+( Combination : (Telangana,PM_Sep_2016_CTWD),	Count : 364 )
+( Combination : (California,PM_Sep_2016_CTWD),	Count : 364 )
+( Combination : (Telangana,Search_Brand),	Count : 363 )
+( Combination : (National Capital Territory of Delhi,Search_Brand),	Count : 363 )
+( Combination : (Tamil Nadu,IIITB_Website),	Count : 348 )
+( Combination : (,IIITB_Website),	Count : 348 )
+( Combination : (Karnataka,PM_Sep_2016_CTWD_Remarketing),	Count : 346 )
+###########################################################
+
+
+
+Region - UtmSources relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Maharashtra,),	Count : 13368 )
+( Combination : (,),	Count : 6568 )
+( Combination : (Karnataka,),	Count : 5834 )
+( Combination : (Telangana,),	Count : 4687 )
+( Combination : (National Capital Territory of Delhi,),	Count : 3379 )
+( Combination : (California,),	Count : 3364 )
+( Combination : (Maharashtra,Instapage),	Count : 3069 )
+( Combination : (Gujarat,),	Count : 2870 )
+( Combination : (Maharashtra,google),	Count : 2815 )
+( Combination : (Maharashtra,Facebook),	Count : 2507 )
+( Combination : (Karnataka,Facebook),	Count : 2356 )
+( Combination : (West Bengal,),	Count : 2312 )
+( Combination : (Haryana,),	Count : 1658 )
+( Combination : (Uttar Pradesh,),	Count : 1494 )
+( Combination : (Karnataka,IIITB),	Count : 1434 )
+( Combination : (Karnataka,google),	Count : 1400 )
+( Combination : (,Facebook),	Count : 1346 )
+( Combination : (Karnataka,Instapage),	Count : 1309 )
+( Combination : (Telangana,Facebook),	Count : 1284 )
+( Combination : (Tamil Nadu,),	Count : 1198 )
+( Combination : (National Capital Territory of Delhi,Instapage),	Count : 1088 )
+( Combination : (,google),	Count : 1038 )
+( Combination : (National Capital Territory of Delhi,Facebook),	Count : 1018 )
+( Combination : (Rajasthan,),	Count : 965 )
+( Combination : (Central Singapore Community Development Council,),	Count : 954 )
+( Combination : (Madhya Pradesh,),	Count : 917 )
+( Combination : (,Instapage),	Count : 794 )
+( Combination : (California,Facebook),	Count : 710 )
+( Combination : (National Capital Territory of Delhi,google),	Count : 683 )
+( Combination : (Telangana,google),	Count : 621 )
+( Combination : (West Bengal,Facebook),	Count : 611 )
+( Combination : (Tamil Nadu,Facebook),	Count : 605 )
+( Combination : (State of Punjab,),	Count : 580 )
+( Combination : (Maharashtra,Lenskart),	Count : 565 )
+( Combination : (Kerala,),	Count : 545 )
+( Combination : (Uttar Pradesh,Facebook),	Count : 536 )
+( Combination : (Maharashtra,IIITB),	Count : 522 )
+( Combination : (Andhra Pradesh,),	Count : 522 )
+( Combination : (Gujarat,Facebook),	Count : 515 )
+( Combination : (Haryana,Facebook),	Count : 509 )
+###########################################################
+
+
+
+End Time : Some(Tue Jul 18 22:08:47 IST 2017)

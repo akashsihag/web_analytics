@@ -1,0 +1,209 @@
+ Version 1.0.0 
+ SPARK_JOB_TYPE : CourseWise
+ PARTITION : 4
+ SPARK_CONTEXT_TYPE : LOCAL
+
+Start Time : Tue Jul 18 22:08:56 IST 2017
+Analysis on the basis of Courses : 
+###########################################################
+Course - Initial referrer relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (,google.co.in),	Count : 23645 )
+( Combination : (,$direct),	Count : 13246 )
+( Combination : (,http:),	Count : 10824 )
+( Combination : (Entrepreneurship,http:),	Count : 6587 )
+( Combination : (Product Management,facebook.com),	Count : 3346 )
+( Combination : (Digital Marketing,google.co.in),	Count : 3218 )
+( Combination : (Digital Marketing,$direct),	Count : 3006 )
+( Combination : (Entrepreneurship,$direct),	Count : 2969 )
+( Combination : (Android,facebook.com),	Count : 2854 )
+( Combination : (,facebook.com),	Count : 2642 )
+( Combination : (Data Analytics,$direct),	Count : 2548 )
+( Combination : (Entrepreneurship,google.co.in),	Count : 2367 )
+( Combination : (Data Analytics,http:),	Count : 2270 )
+( Combination : (Digital Marketing,http:),	Count : 2176 )
+( Combination : (Data Analytics,google.co.in),	Count : 2050 )
+( Combination : (Product Management,$direct),	Count : 1903 )
+( Combination : (Digital Marketing,facebook.com),	Count : 1870 )
+( Combination : (Product Management,google.co.in),	Count : 1799 )
+( Combination : (Product Management,http:),	Count : 1697 )
+( Combination : (Android,$direct),	Count : 1112 )
+( Combination : (Android,google.co.in),	Count : 1031 )
+( Combination : (Entrepreneurship,facebook.com),	Count : 929 )
+( Combination : (,google.com),	Count : 510 )
+( Combination : (,linkedin.com),	Count : 437 )
+( Combination : (Data Analytics,facebook.com),	Count : 415 )
+( Combination : (Android,http:),	Count : 276 )
+( Combination : (,android-app:),	Count : 255 )
+( Combination : (,google.co.uk),	Count : 209 )
+( Combination : (,company.com),	Count : 200 )
+( Combination : (Entrepreneurship,entrepreneur.com),	Count : 131 )
+( Combination : (Digital Marketing,company.com),	Count : 126 )
+( Combination : (Data Analytics,google.com),	Count : 124 )
+( Combination : (,"https:),	Count : 118 )
+( Combination : (,m.facebook.com),	Count : 111 )
+( Combination : (,t.co),	Count : 108 )
+( Combination : (Digital Marketing,google.com),	Count : 100 )
+( Combination : (,mail.google.com),	Count : 95 )
+( Combination : (,outlook.live.com),	Count : 94 )
+( Combination : (Digital Marketing,company1.typeform.com),	Count : 93 )
+( Combination : (,in.explara.com),	Count : 89 )
+###########################################################
+
+
+
+Course - referrer relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (,google.co.in),	Count : 19011 )
+( Combination : (,),	Count : 11706 )
+( Combination : (,company.com),	Count : 11642 )
+( Combination : (,http:),	Count : 7985 )
+( Combination : (Entrepreneurship,http:),	Count : 5626 )
+( Combination : (Data Analytics,company.com),	Count : 3851 )
+( Combination : (Entrepreneurship,company.com),	Count : 3618 )
+( Combination : (Digital Marketing,company.com),	Count : 3580 )
+( Combination : (Product Management,company.com),	Count : 2653 )
+( Combination : (Product Management,facebook.com),	Count : 2575 )
+( Combination : (Entrepreneurship,),	Count : 2420 )
+( Combination : (Digital Marketing,),	Count : 2328 )
+( Combination : (Android,company.com),	Count : 2252 )
+( Combination : (Android,facebook.com),	Count : 2170 )
+( Combination : (Data Analytics,),	Count : 1786 )
+( Combination : (Digital Marketing,google.co.in),	Count : 1777 )
+( Combination : (Product Management,),	Count : 1697 )
+( Combination : (Digital Marketing,http:),	Count : 1516 )
+( Combination : (Product Management,http:),	Count : 1324 )
+( Combination : (Digital Marketing,facebook.com),	Count : 1241 )
+( Combination : (,facebook.com),	Count : 1124 )
+( Combination : (Data Analytics,http:),	Count : 1070 )
+( Combination : (Entrepreneurship,google.co.in),	Count : 824 )
+( Combination : (Data Analytics,google.co.in),	Count : 789 )
+( Combination : (Android,),	Count : 708 )
+( Combination : (Product Management,google.co.in),	Count : 656 )
+( Combination : (Entrepreneurship,facebook.com),	Count : 648 )
+( Combination : (,google.com),	Count : 385 )
+( Combination : (,linkedin.com),	Count : 322 )
+( Combination : (Digital Marketing,company1.typeform.com),	Count : 271 )
+( Combination : (Android,google.co.in),	Count : 268 )
+( Combination : (,android-app:),	Count : 243 )
+( Combination : (Entrepreneurship,entrepreneur.com),	Count : 100 )
+( Combination : (,google.co.uk),	Count : 93 )
+( Combination : (Android,http:),	Count : 93 )
+( Combination : (,m.facebook.com),	Count : 90 )
+( Combination : (Data Analytics,secure.payu.in),	Count : 73 )
+( Combination : (,t.co),	Count : 71 )
+( Combination : (Entrepreneurship,secure.payu.in),	Count : 70 )
+( Combination : (,quora.com),	Count : 70 )
+###########################################################
+
+
+
+Course - LatestUTMCampaign relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (,),	Count : 38632 )
+( Combination : (Digital Marketing,),	Count : 5746 )
+( Combination : (Data Analytics,),	Count : 4084 )
+( Combination : (Entrepreneurship,),	Count : 3696 )
+( Combination : (,Search_Brand),	Count : 3469 )
+( Combination : (Android,AD_Sep_2016_CTWD),	Count : 2789 )
+( Combination : (Product Management,PM_Sep_2016_CTWD),	Count : 2640 )
+( Combination : (Entrepreneurship,SUWU_Instapage_Workshop_25Aug),	Count : 2555 )
+( Combination : (Product Management,),	Count : 2187 )
+( Combination : (Entrepreneurship,Lenskart_Scholarship_PostForm_Submission),	Count : 1918 )
+( Combination : (Android,),	Count : 1902 )
+( Combination : (Data Analytics,IIITB_Website),	Count : 1887 )
+( Combination : (,IIITB_Website),	Count : 1759 )
+( Combination : (Entrepreneurship,SUWU_Instapage_Conclave_25Sept),	Count : 1390 )
+( Combination : (,company_Brand),	Count : 1301 )
+( Combination : (Product Management,PM_Sep_2016_CTWD_Remarketing),	Count : 1055 )
+( Combination : (,SUWU_Instapage_Workshop_25Aug),	Count : 978 )
+( Combination : (Digital Marketing,DM_Instapage_MLP),	Count : 778 )
+( Combination : (Digital Marketing,DM_Nov_2016_CTWD),	Count : 776 )
+( Combination : (,Lenskart_Scholarship_PostForm_Submission),	Count : 748 )
+( Combination : (Product Management,PM_Display_Remarketing),	Count : 691 )
+( Combination : (,PM_Sep_2016_CTWD),	Count : 648 )
+( Combination : (Digital Marketing,DM_Nov_2016_CTWD_Remarketing),	Count : 640 )
+( Combination : (Entrepreneurship,SWU_Sept_2016_CTWD_Remarketing),	Count : 638 )
+( Combination : (Entrepreneurship,Search_Brand),	Count : 548 )
+( Combination : (Product Management,PM_Instapage_KapilKhoslaWebinar),	Count : 498 )
+( Combination : (,SUWU_Instapage_Conclave_25Sept),	Count : 478 )
+( Combination : (Digital Marketing,DM_Instapage_Workshop28July),	Count : 418 )
+( Combination : (Digital Marketing,Search_Brand),	Count : 417 )
+( Combination : (Digital Marketing,DM_Oct_2016_QUIZ),	Count : 381 )
+( Combination : (Data Analytics,Search_Brand),	Count : 381 )
+( Combination : (Entrepreneurship,SWU_Sept_2016_SuccessStories_VVM),	Count : 366 )
+( Combination : (,AD_Sep_2016_CTWD),	Count : 358 )
+( Combination : (Product Management,PM_Instapage_Workshop6Aug),	Count : 333 )
+( Combination : (Product Management,Search_Brand),	Count : 312 )
+( Combination : (Product Management,PM_Generic_Course),	Count : 309 )
+( Combination : (,buffer),	Count : 309 )
+( Combination : (,PM_Sep_2016_CTWD_Remarketing),	Count : 300 )
+( Combination : (Entrepreneurship,company_Brand),	Count : 282 )
+( Combination : (Entrepreneurship,SWU_Sept_2016),	Count : 277 )
+###########################################################
+
+
+
+Course - UtmSources relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (,),	Count : 38123 )
+( Combination : (Digital Marketing,),	Count : 5741 )
+( Combination : (,google),	Count : 4988 )
+( Combination : (Data Analytics,),	Count : 4057 )
+( Combination : (Product Management,Facebook),	Count : 4003 )
+( Combination : (Entrepreneurship,Instapage),	Count : 3940 )
+( Combination : (Entrepreneurship,),	Count : 3675 )
+( Combination : (Android,Facebook),	Count : 3034 )
+( Combination : (,Facebook),	Count : 2845 )
+( Combination : (Entrepreneurship,Lenskart),	Count : 2274 )
+( Combination : (,Instapage),	Count : 2179 )
+( Combination : (Digital Marketing,Facebook),	Count : 2177 )
+( Combination : (Product Management,),	Count : 2163 )
+( Combination : (Data Analytics,IIITB),	Count : 1973 )
+( Combination : (Android,),	Count : 1899 )
+( Combination : (,IIITB),	Count : 1884 )
+( Combination : (Entrepreneurship,Facebook),	Count : 1457 )
+( Combination : (Digital Marketing,Instapage),	Count : 1450 )
+( Combination : (Product Management,google),	Count : 1328 )
+( Combination : (Entrepreneurship,google),	Count : 1077 )
+( Combination : (Digital Marketing,google),	Count : 903 )
+( Combination : (,Lenskart),	Count : 900 )
+( Combination : (Product Management,Instapage),	Count : 880 )
+( Combination : (,Autopilot),	Count : 724 )
+( Combination : (Data Analytics,google),	Count : 682 )
+( Combination : (Data Analytics,Autopilot),	Count : 510 )
+( Combination : (Data Analytics,Facebook),	Count : 460 )
+( Combination : (,Mailer),	Count : 416 )
+( Combination : (Product Management,Taboola),	Count : 364 )
+( Combination : (Android,google),	Count : 334 )
+( Combination : (,linkedin.com),	Count : 302 )
+( Combination : (Entrepreneurship,Autopilot),	Count : 229 )
+( Combination : (Entrepreneurship,IOS),	Count : 224 )
+( Combination : (,companyTalks),	Count : 215 )
+( Combination : (Digital Marketing,QUIZ),	Count : 160 )
+( Combination : (Entrepreneurship,EntrepreneurIndia),	Count : 141 )
+( Combination : (Product Management,Autopilot),	Count : 128 )
+( Combination : (Digital Marketing,DigitalDeepak),	Count : 119 )
+( Combination : (,IOS),	Count : 112 )
+( Combination : (Android,Instapage),	Count : 112 )
+###########################################################
+
+
+
+End Time : Some(Tue Jul 18 22:09:02 IST 2017)

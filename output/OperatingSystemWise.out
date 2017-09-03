@@ -1,0 +1,259 @@
+ Version 1.0.0 
+ SPARK_JOB_TYPE : OperatingSystemWise
+ PARTITION : 4
+ SPARK_CONTEXT_TYPE : LOCAL
+
+Start Time : Tue Jul 18 22:08:24 IST 2017
+Analysis on the basis of Operating system used by user : 
+###########################################################
+Operating System - Initial referrer relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Windows,google.co.in),	Count : 21711 )
+( Combination : (Windows,$direct),	Count : 13797 )
+( Combination : (Android,http:),	Count : 11091 )
+( Combination : (Windows,facebook.com),	Count : 9915 )
+( Combination : (Windows,http:),	Count : 9139 )
+( Combination : (Android,google.co.in),	Count : 7212 )
+( Combination : (Android,$direct),	Count : 5650 )
+( Combination : (Mac OS X,$direct),	Count : 3246 )
+( Combination : (Mac OS X,google.co.in),	Count : 3159 )
+( Combination : (iOS,http:),	Count : 1588 )
+( Combination : (Mac OS X,facebook.com),	Count : 1388 )
+( Combination : (Mac OS X,http:),	Count : 1268 )
+( Combination : (iOS,google.co.in),	Count : 1237 )
+( Combination : (iOS,$direct),	Count : 906 )
+( Combination : (Linux,google.co.in),	Count : 795 )
+( Combination : (Linux,$direct),	Count : 632 )
+( Combination : (Linux,facebook.com),	Count : 595 )
+( Combination : (Windows,google.com),	Count : 569 )
+( Combination : (Linux,http:),	Count : 532 )
+( Combination : (Windows,linkedin.com),	Count : 515 )
+( Combination : (Windows,company.com),	Count : 371 )
+( Combination : (,$direct),	Count : 355 )
+( Combination : (Android,android-app:),	Count : 349 )
+( Combination : (Windows,google.co.uk),	Count : 282 )
+( Combination : (Windows Phone,$direct),	Count : 241 )
+( Combination : (Android,m.facebook.com),	Count : 203 )
+( Combination : (Windows,"https:),	Count : 195 )
+( Combination : (Mac OS X,google.com),	Count : 189 )
+( Combination : (Windows,outlook.live.com),	Count : 183 )
+( Combination : (Windows,mail.google.com),	Count : 157 )
+( Combination : (Windows Phone,http:),	Count : 138 )
+( Combination : (Windows,google.com.sg),	Count : 129 )
+( Combination : (iOS,facebook.com),	Count : 128 )
+( Combination : (Windows,quora.com),	Count : 126 )
+( Combination : (Windows,in.explara.com),	Count : 123 )
+( Combination : (Windows,entrepreneur.com),	Count : 115 )
+( Combination : (Windows,yourstory.com),	Count : 102 )
+( Combination : (Mac OS X,company.com),	Count : 96 )
+( Combination : (Android,t.co),	Count : 94 )
+( Combination : (BlackBerry,http:),	Count : 81 )
+###########################################################
+
+
+
+Operating System - referrer relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Windows,company.com),	Count : 18004 )
+( Combination : (Windows,google.co.in),	Count : 14598 )
+( Combination : (Windows,),	Count : 11151 )
+( Combination : (Android,http:),	Count : 9168 )
+( Combination : (Windows,facebook.com),	Count : 6463 )
+( Combination : (Android,google.co.in),	Count : 5938 )
+( Combination : (Windows,http:),	Count : 5789 )
+( Combination : (Android,),	Count : 4925 )
+( Combination : (Android,company.com),	Count : 4199 )
+( Combination : (Mac OS X,company.com),	Count : 3763 )
+( Combination : (Mac OS X,),	Count : 2574 )
+( Combination : (Mac OS X,google.co.in),	Count : 1440 )
+( Combination : (iOS,http:),	Count : 1285 )
+( Combination : (iOS,google.co.in),	Count : 873 )
+( Combination : (iOS,company.com),	Count : 867 )
+( Combination : (iOS,),	Count : 850 )
+( Combination : (Mac OS X,facebook.com),	Count : 846 )
+( Combination : (Mac OS X,http:),	Count : 794 )
+( Combination : (Linux,company.com),	Count : 783 )
+( Combination : (Linux,),	Count : 570 )
+( Combination : (Linux,google.co.in),	Count : 466 )
+( Combination : (Linux,http:),	Count : 405 )
+( Combination : (Linux,facebook.com),	Count : 378 )
+( Combination : (Windows,google.com),	Count : 376 )
+( Combination : (,),	Count : 372 )
+( Combination : (Windows,linkedin.com),	Count : 303 )
+( Combination : (Android,android-app:),	Count : 298 )
+( Combination : (Windows Phone,),	Count : 252 )
+( Combination : (Windows,company1.typeform.com),	Count : 238 )
+( Combination : (Windows,secure.payu.in),	Count : 184 )
+( Combination : (Android,m.facebook.com),	Count : 123 )
+( Combination : (Windows,quora.com),	Count : 121 )
+( Combination : (Mac OS X,google.com),	Count : 118 )
+( Combination : (Windows Phone,http:),	Count : 117 )
+( Combination : (Windows,mail.google.com),	Count : 103 )
+( Combination : (Windows,entrepreneur.com),	Count : 98 )
+( Combination : (Windows,google.co.uk),	Count : 91 )
+( Combination : (Windows,outlook.live.com),	Count : 72 )
+( Combination : (iOS,facebook.com),	Count : 71 )
+( Combination : (Windows,"https:),	Count : 70 )
+###########################################################
+
+
+
+Operating System - Course relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Windows,),	Count : 29864 )
+( Combination : (Android,),	Count : 15008 )
+( Combination : (Windows,Digital Marketing),	Count : 7199 )
+( Combination : (Windows,Entrepreneurship),	Count : 5836 )
+( Combination : (Windows,Data Analytics),	Count : 5660 )
+( Combination : (Windows,Product Management),	Count : 5635 )
+( Combination : (Android,Entrepreneurship),	Count : 5058 )
+( Combination : (Mac OS X,),	Count : 4630 )
+( Combination : (Windows,Android),	Count : 4059 )
+( Combination : (iOS,),	Count : 2124 )
+( Combination : (Android,Digital Marketing),	Count : 2063 )
+( Combination : (Mac OS X,Product Management),	Count : 1404 )
+( Combination : (Mac OS X,Entrepreneurship),	Count : 1355 )
+( Combination : (Linux,),	Count : 1303 )
+( Combination : (Android,Product Management),	Count : 1175 )
+( Combination : (Android,Data Analytics),	Count : 1174 )
+( Combination : (Mac OS X,Digital Marketing),	Count : 1054 )
+( Combination : (iOS,Entrepreneurship),	Count : 1005 )
+( Combination : (Mac OS X,Android),	Count : 674 )
+( Combination : (Mac OS X,Data Analytics),	Count : 624 )
+( Combination : (Android,Android),	Count : 496 )
+( Combination : (iOS,Product Management),	Count : 360 )
+( Combination : (Linux,Product Management),	Count : 352 )
+( Combination : (Linux,Android),	Count : 341 )
+( Combination : (iOS,Digital Marketing),	Count : 322 )
+( Combination : (,),	Count : 298 )
+( Combination : (Linux,Digital Marketing),	Count : 244 )
+( Combination : (Linux,Entrepreneurship),	Count : 234 )
+( Combination : (Windows Phone,),	Count : 218 )
+( Combination : (iOS,Data Analytics),	Count : 216 )
+( Combination : (Linux,Data Analytics),	Count : 201 )
+( Combination : (,Product Management),	Count : 131 )
+( Combination : (Android,digital-marketing),	Count : 60 )
+( Combination : (Windows Phone,Entrepreneurship),	Count : 56 )
+( Combination : (iOS,Android),	Count : 53 )
+( Combination : (BlackBerry,),	Count : 48 )
+( Combination : (Windows Phone,Product Management),	Count : 48 )
+( Combination : (Windows Phone,Digital Marketing),	Count : 43 )
+( Combination : (,Digital Marketing),	Count : 40 )
+( Combination : (Mac OS X,PG Diploma in Data Analytics- Demo),	Count : 38 )
+###########################################################
+
+
+
+os - LatestUTMCampaign relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Windows,),	Count : 31363 )
+( Combination : (Android,),	Count : 15651 )
+( Combination : (Mac OS X,),	Count : 5231 )
+( Combination : (Windows,Search_Brand),	Count : 3142 )
+( Combination : (Windows,IIITB_Website),	Count : 2993 )
+( Combination : (Windows,AD_Sep_2016_CTWD),	Count : 2767 )
+( Combination : (Windows,PM_Sep_2016_CTWD),	Count : 2631 )
+( Combination : (iOS,),	Count : 2197 )
+( Combination : (Android,Lenskart_Scholarship_PostForm_Submission),	Count : 2180 )
+( Combination : (Windows,SUWU_Instapage_Workshop_25Aug),	Count : 1670 )
+( Combination : (Windows,company_Brand),	Count : 1527 )
+( Combination : (Linux,),	Count : 1335 )
+( Combination : (Android,SUWU_Instapage_Workshop_25Aug),	Count : 1267 )
+( Combination : (Windows,PM_Sep_2016_CTWD_Remarketing),	Count : 1151 )
+( Combination : (Android,Search_Brand),	Count : 1052 )
+( Combination : (Windows,DM_Nov_2016_CTWD),	Count : 901 )
+( Combination : (Android,SUWU_Instapage_Conclave_25Sept),	Count : 897 )
+( Combination : (Windows,DM_Instapage_MLP),	Count : 776 )
+( Combination : (Mac OS X,Search_Brand),	Count : 726 )
+( Combination : (Windows,SWU_Sept_2016_CTWD_Remarketing),	Count : 712 )
+( Combination : (Windows,DM_Nov_2016_CTWD_Remarketing),	Count : 701 )
+( Combination : (Windows,SUWU_Instapage_Conclave_25Sept),	Count : 694 )
+( Combination : (Windows,PM_Display_Remarketing),	Count : 680 )
+( Combination : (Mac OS X,PM_Sep_2016_CTWD),	Count : 508 )
+( Combination : (Mac OS X,SUWU_Instapage_Workshop_25Aug),	Count : 482 )
+( Combination : (Android,company_Brand),	Count : 470 )
+( Combination : (Android,IIITB_Website),	Count : 436 )
+( Combination : (Windows,DM_Oct_2016_QUIZ),	Count : 429 )
+( Combination : (Windows,PM_Instapage_KapilKhoslaWebinar),	Count : 356 )
+( Combination : (Windows,SWU_Sept_2016),	Count : 341 )
+( Combination : (Windows,DM_Instapage_Workshop28July),	Count : 325 )
+( Combination : (Android,SWU_Sept_2016_SuccessStories_VVM),	Count : 294 )
+( Combination : (Windows,DA2_Launch_Mail),	Count : 291 )
+( Combination : (,),	Count : 288 )
+( Combination : (Mac OS X,company_Brand),	Count : 282 )
+( Combination : (Windows,PM_Generic_Course),	Count : 269 )
+( Combination : (Windows,Talks_PR),	Count : 265 )
+( Combination : (Mac OS X,PM_Sep_2016_CTWD_Remarketing),	Count : 263 )
+( Combination : (Windows,DA_Webinar_31stAug_ThankYou),	Count : 257 )
+( Combination : (iOS,SUWU_Instapage_Workshop_25Aug),	Count : 257 )
+###########################################################
+
+
+
+Operating System - UtmSources relationship : 
+
+Total Count : 101017
+
+Showing top 40
+
+( Combination : (Windows,),	Count : 31120 )
+( Combination : (Android,),	Count : 15491 )
+( Combination : (Windows,Facebook),	Count : 10600 )
+( Combination : (Windows,google),	Count : 5406 )
+( Combination : (Mac OS X,),	Count : 5118 )
+( Combination : (Windows,Instapage),	Count : 4111 )
+( Combination : (Windows,IIITB),	Count : 3168 )
+( Combination : (Android,Instapage),	Count : 2903 )
+( Combination : (Android,Lenskart),	Count : 2479 )
+( Combination : (iOS,),	Count : 2132 )
+( Combination : (Android,google),	Count : 2003 )
+( Combination : (Mac OS X,Facebook),	Count : 1498 )
+( Combination : (Linux,),	Count : 1328 )
+( Combination : (Windows,Autopilot),	Count : 1213 )
+( Combination : (Mac OS X,google),	Count : 1146 )
+( Combination : (Mac OS X,Instapage),	Count : 863 )
+( Combination : (Linux,Facebook),	Count : 716 )
+( Combination : (Android,Facebook),	Count : 700 )
+( Combination : (iOS,Instapage),	Count : 605 )
+( Combination : (Android,IIITB),	Count : 511 )
+( Combination : (Windows,Lenskart),	Count : 415 )
+( Combination : (iOS,google),	Count : 375 )
+( Combination : (iOS,Facebook),	Count : 326 )
+( Combination : (,),	Count : 288 )
+( Combination : (Linux,google),	Count : 274 )
+( Combination : (iOS,Lenskart),	Count : 267 )
+( Combination : (Windows Phone,),	Count : 236 )
+( Combination : (Windows,companyTalks),	Count : 235 )
+( Combination : (Windows,linkedin.com),	Count : 218 )
+( Combination : (Mac OS X,IIITB),	Count : 215 )
+( Combination : (Android,Taboola),	Count : 206 )
+( Combination : (Android,Autopilot),	Count : 200 )
+( Combination : (Windows,IOS),	Count : 198 )
+( Combination : (Mac OS X,Autopilot),	Count : 183 )
+( Combination : (Windows,Mailer),	Count : 183 )
+( Combination : (Windows,QUIZ),	Count : 180 )
+( Combination : (Mac OS X,LinkedIn),	Count : 170 )
+( Combination : (Linux,Instapage),	Count : 156 )
+( Combination : (Windows,Taboola),	Count : 155 )
+( Combination : (Windows,DigitalDeepak),	Count : 152 )
+###########################################################
+
+
+
+End Time : Some(Tue Jul 18 22:08:31 IST 2017)
